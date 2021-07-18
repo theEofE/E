@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["smash"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.Into.html\" title=\"trait core::convert::Into\">Into</a>&lt;<a class=\"struct\" href=\"smash/lib/struct.L2CValue.html\" title=\"struct smash::lib::L2CValue\">L2CValue</a>&gt; for <a class=\"struct\" href=\"smash/lib/struct.LuaConst.html\" title=\"struct smash::lib::LuaConst\">LuaConst</a>","synthetic":false,"types":["smash::cpp::l2c_value::LuaConst"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
